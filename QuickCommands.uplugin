@@ -10,7 +10,7 @@
   "DocsURL": "https://github.com/AndrisBorbas/QuickCommands/wiki",
   "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d99b947e097b499985694cec86592660",
   "SupportURL": "https://github.com/AndrisBorbas/QuickCommands/issues",
-  "EngineVersion": "5.0EA",
+  "EngineVersion": "",
   "CanContainContent": false,
   "WhitelistPlatforms": [ "Win64", "Win32", "Mac", "Linux", "IOS", "Android", "PS4", "XboxOne" ],
   "CanContainContent" : false,
